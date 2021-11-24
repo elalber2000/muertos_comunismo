@@ -18,8 +18,8 @@ Todos los tweets con sus respectivo número de millones de muertos (divididos po
 
 Media de millones de muertos por cada fecha
 
-🟦 Media de millones de muertos
-🟣 Millones de muertos (scatter plot)
+🟦 Media de millones de muertos  
+🟣 Millones de muertos (scatter plot)  
 🟥 Normalización polinómica de los valores medios
 
 ![media de muertes](https://github.com/elalber2000/muertos_comunismo/blob/main/avg.png)
