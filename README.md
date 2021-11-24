@@ -4,7 +4,7 @@ Todos los datos fueron obtenidos de Twitter gracias al web scrapper Snscrape. Se
 
 Public demo at https://colab.research.google.com/drive/1iN15fWPaGa1nSMqlonrBEsEcABBuq2Lj?usp=sharing
 
-
+<br /><br />
 
 Gráficas:
 
