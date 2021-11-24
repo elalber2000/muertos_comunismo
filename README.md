@@ -14,6 +14,7 @@ Todos los tweets con sus respectivo número de millones de muertos (divididos po
 
 ![todos los tweets](https://github.com/elalber2000/muertos_comunismo/blob/main/main.png)
 
+<br />
 
 Media de millones de muertos por cada fecha
 
@@ -23,6 +24,7 @@ Media de millones de muertos por cada fecha
 
 ![media de muertes](https://github.com/elalber2000/muertos_comunismo/blob/main/avg.png)
 
+<br />
 
 Frecuencia del número de millones de muertos
 
@@ -30,6 +32,7 @@ Frecuencia del número de millones de muertos
 
 ![frecuencia de muertes](https://github.com/elalber2000/muertos_comunismo/blob/main/freq.png)
 
+<br />
 
 Número de tweets sobre los muertos del comunismo por fecha
 
